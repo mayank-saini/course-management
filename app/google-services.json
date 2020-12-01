@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703091702055",
+    "firebase_url": "https://course-management-84aaa.firebaseio.com",
+    "project_id": "course-management-84aaa",
+    "storage_bucket": "course-management-84aaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703091702055:android:3e4d8f8971dc3e79071102",
+        "android_client_info": {
+          "package_name": "com.mayank.coursemgmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703091702055-abarat034k7ctjfmmpffavigdacis4f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ncdKGFP2uSxf2-pHrRiL85ZfeGpVw90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703091702055-abarat034k7ctjfmmpffavigdacis4f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
